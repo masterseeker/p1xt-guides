@@ -101,7 +101,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - JavaScript                                                                                                                                        |    SKIPPED        |     SKIPPED  	  |
 | Full Stack Online - React                                                                                                                                             |      SKIPPED      |          SKIPPED	|
 | Full Stack Online - Full Stack Project                                                                                                                                |     SKIPPED       |        SKIPPED	  |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |    SKIPPED        |      SKIPPED	 |
+| Full Stack Online - MERN Stack Curriculum                                                                                                                            |    SKIPPED        |      SKIPPED	 |
 | Full Stack Online - Job Search                                                                                                                                        |    SKIPPED        |     SKIPPED	   |
 | Full Stack Online - Docker                                                                                                                                            |   SKIPPED         |    SKIPPED	  |
 | Full Stack Online - GraphQl                                                                                                                                           |    SKIPPED        |     SKIPPED	   |
